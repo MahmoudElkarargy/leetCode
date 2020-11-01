@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D6FADC57254EE3AE001F5DCE /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D6FADC56254EE3AE001F5DCE /* main.cpp */; };
+		D6FADC57254EE3AE001F5DCE /* Validate Binary Search Tree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = D6FADC56254EE3AE001F5DCE /* Validate Binary Search Tree.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		D6FADC53254EE3AE001F5DCE /* leetCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = leetCode; sourceTree = BUILT_PRODUCTS_DIR; };
-		D6FADC56254EE3AE001F5DCE /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		D6FADC56254EE3AE001F5DCE /* Validate Binary Search Tree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "Validate Binary Search Tree.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		D6FADC55254EE3AE001F5DCE /* leetCode */ = {
 			isa = PBXGroup;
 			children = (
-				D6FADC56254EE3AE001F5DCE /* main.cpp */,
+				D6FADC56254EE3AE001F5DCE /* Validate Binary Search Tree.cpp */,
 			);
 			path = leetCode;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D6FADC57254EE3AE001F5DCE /* main.cpp in Sources */,
+				D6FADC57254EE3AE001F5DCE /* Validate Binary Search Tree.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
